@@ -1,0 +1,8 @@
+.vscode/
+cert/*
+thread_lib_check
+socket_client_ssl
+socket_server_ssl
+dummy_server
+chatapp_client
+chatapp_server
